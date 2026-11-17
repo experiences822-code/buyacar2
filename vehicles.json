@@ -406,6 +406,34 @@
     "sold": true
   },
   {
+    "id": 30,
+    "brand": "Ford",
+    "model": "Escape SE 4x4",
+    "year": 2013,
+    "category": "SUV",
+    "price": 46000000,
+    "fuel": "Consultar",
+    "trans": "Consultar",
+    "km": "Consultar",
+    "url": "https://buyacar.com.co/compra/",
+    "image": "https://buyacar.com.co/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-6.31.12-PM-768x1024.jpeg",
+    "sold": false
+  },
+  {
+    "id": 31,
+    "brand": "Peugeot",
+    "model": "207 Compact",
+    "year": 2011,
+    "category": "Automóvil",
+    "price": 26000000,
+    "fuel": "Consultar",
+    "trans": "Consultar",
+    "km": "Consultar",
+    "url": "https://buyacar.com.co/compra/",
+    "image": "https://buyacar.com.co/wp-content/uploads/2026/02/Anadir-un-titulo-1000-x-1000-px-Post-de-Instagram-45-11-819x1024.webp",
+    "sold": true
+  },
+  {
     "id": 32,
     "brand": "Hyundai",
     "model": "Accent i25",
